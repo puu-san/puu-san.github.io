@@ -6,3 +6,6 @@
 	vertical-align: middle;
   font-weight: 700;
 }
+.title-image span:hover{
+  color:#ff6360;
+}
