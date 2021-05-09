@@ -9,3 +9,7 @@
 .title-image span:hover{
   color:#ff6360;
 }
+
+blockquote{
+  font-size: small;
+}
