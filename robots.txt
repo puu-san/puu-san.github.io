@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://puu-san.jp/sitemap.xml

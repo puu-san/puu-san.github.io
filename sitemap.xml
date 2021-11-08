@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://puu-san.jp/</loc>
+    <priority>1.0</priority>
+    <lastmod>2021-09-02T10:31:01+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://puu-san.jp/succulents.html</loc>
+    <priority>0.8</priority>
+    <lastmod>2021-09-02T10:31:01+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://puu-san.jp/cats.html</loc>
+    <priority>0.8</priority>
+    <lastmod>2021-09-02T10:31:01+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://puu-san.jp/sales.html</loc>
+    <priority>0.8</priority>
+    <lastmod>2021-09-02T10:31:01+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://puu-san.jp/access.html</loc>
+    <priority>0.8</priority>
+    <lastmod>2021-09-02T10:31:01+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://puu-san.jp/contact.html</loc>
+    <priority>0.8</priority>
+    <lastmod>2021-09-02T10:31:01+09:00</lastmod>
+  </url>
+</urlset>
