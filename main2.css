@@ -13,3 +13,10 @@
 blockquote{
   font-size: small;
 }
+
+.nav-footer {
+  position: static;
+  bottom: 0;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
